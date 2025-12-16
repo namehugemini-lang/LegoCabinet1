@@ -1,0 +1,5 @@
+{
+  "name": "LegoCabinet Configurator",
+  "description": "A parametric furniture design configuration tool using atomic 2D components and elastic layout logic.",
+  "requestFramePermissions": []
+}
